@@ -1,0 +1,14 @@
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.exe
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.deps.json
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.runtimeconfig.json
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.runtimeconfig.dev.json
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.dll
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\bin\Debug\netcoreapp3.1\DenpendencyInjectoion.pdb
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.csproj.AssemblyReference.cache
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.AssemblyInfoInputs.cache
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.AssemblyInfo.cs
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.csproj.CoreCompileInputs.cache
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.dll
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.pdb
+C:\Users\TinyPC\Desktop\.net train\DenpendencyInjectoion\DenpendencyInjectoion\obj\Debug\netcoreapp3.1\DenpendencyInjectoion.genruntimeconfig.cache
